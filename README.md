@@ -1,16 +1,51 @@
-# React + Vite
+# 🌐 Vanshika Rai – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website showcasing my projects, experience, and skills in
+**Full-Stack Web Development** and **Machine Learning**.
 
-Currently, two official plugins are available:
+Built with modern frontend tools for performance, animation, and responsiveness.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Website
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 https://vanshikarai29.github.io/vanshika-portfolio/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- ⚛️ React + Vite  
+- 🎨 Tailwind CSS  
+- 🎞 Framer Motion  
+- 📩 EmailJS (Contact Form)  
+- ✨ Particle Background Effects  
+- ☁️ GitHub Pages (Deployment)
+
+---
+
+## 📂 Features
+
+- Fully responsive modern UI  
+- Scroll-based animations  
+- Interactive project showcase  
+- Experience timeline section  
+- Contact form integration  
+- Optimized production build  
+- Fast loading performance  
+
+---
+
+## 📸 Preview
+
+_Add screenshots here_
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Vanshikarai29/vanshika-portfolio.git
+cd vanshika-portfolio
