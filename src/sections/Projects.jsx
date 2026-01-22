@@ -391,6 +391,7 @@ export default function Projects() {
 
   return (
     <section
+      id="projects"
       ref={sceneRef}
       className="relative text-white"
       style={{
